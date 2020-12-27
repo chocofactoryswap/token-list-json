@@ -1,22 +1,22 @@
 {
   "name": "Chocolate Factory",
-  "timestamp": "2020-12-13T00:00:00+00:00",
+  "timestamp": "2020-12-27T00:00:00+00:00",
   "logoURI": "https://gateway.pinata.cloud/ipfs/QmayUtTefirV1qW17QBKn4jcPyk27XSyC21TjuQwmWgBN9",
   "keywords": ["chocofactoryswap", "default", "list"],
   "tokens": [
     {
-      "address": "0x9F017121855394f5077b7B3f591E3d65637fD299",
+      "address": "0x0fc66737417f44ED3484f438c77AB92Fda18A3ee",
       "chainId": 56,
-      "name": "KitKat",
-      "symbol": "KITKAT",
+      "name": "KtKt",
+      "symbol": "KtKt",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmcnmHrUVJCFeHK6FvQzEQwcJVbL7igLnPiRxvu82dw2Gn"
     },
     {
-      "address": "0x0f1D4A97Ab12D295a557a8086dA8A321c723BeFA",
+      "address": "0x5dD9b8805abDC763582B21f95ed119FC26b13c05",
       "chainId": 56,
-      "name": "Ferrero",
-      "symbol": "FERRERO",
+      "name": "MMS",
+      "symbol": "MMS",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/Qmd8xmho5sBxCe5REvMxq6uzAsx93gHP2rZpX1VH3UpeiE"
     },
@@ -226,18 +226,18 @@
 
 
     {
-      "address": "0x9F017121855394f5077b7B3f591E3d65637fD299",
+      "address": "0x0fc66737417f44ED3484f438c77AB92Fda18A3ee",
       "chainId": 97,
-      "name": "KitKat",
-      "symbol": "KITKAT",
+      "name": "KtKt",
+      "symbol": "KtKt",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/QmcnmHrUVJCFeHK6FvQzEQwcJVbL7igLnPiRxvu82dw2Gn"
     },
     {
-      "address": "0x0f1D4A97Ab12D295a557a8086dA8A321c723BeFA",
+      "address": "0x5dD9b8805abDC763582B21f95ed119FC26b13c05",
       "chainId": 97,
-      "name": "Ferrero",
-      "symbol": "FERRERO",
+      "name": "MMS",
+      "symbol": "MMS",
       "decimals": 18,
       "logoURI": "https://gateway.pinata.cloud/ipfs/Qmd8xmho5sBxCe5REvMxq6uzAsx93gHP2rZpX1VH3UpeiE"
     },
@@ -259,7 +259,7 @@
     }
   ],
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 8,
     "patch": 0
   }
