@@ -1,6 +1,6 @@
 {
   "name": "Chocolate Factory",
-  "timestamp": "2020-12-27T00:00:00+00:00",
+  "timestamp": "2021-01-09T15:33:00+00:00",
   "logoURI": "https://gateway.pinata.cloud/ipfs/QmayUtTefirV1qW17QBKn4jcPyk27XSyC21TjuQwmWgBN9",
   "keywords": ["chocofactoryswap", "default", "list"],
   "tokens": [
@@ -21,7 +21,7 @@
       "logoURI": "https://gateway.pinata.cloud/ipfs/Qmd8xmho5sBxCe5REvMxq6uzAsx93gHP2rZpX1VH3UpeiE"
     },
     {
-      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
       "chainId": 56,
       "name": "BinanceUSD",
       "symbol": "BUSD",
@@ -38,7 +38,7 @@
     },
 
     {
-      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
       "chainId": 56,
       "name": "Bitcoin",
       "symbol": "BTCB",
@@ -46,7 +46,7 @@
       "logoURI": "https://bscscan.com/token/images/btcb_32.png"
     },
     {
-      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
       "chainId": 56,
       "name": "Ethereum",
       "symbol": "ETH",
@@ -54,7 +54,7 @@
       "logoURI": "https://bscscan.com/token/images/ethereum_32.png"
     },
     {
-      "address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd",
+      "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
       "chainId": 56,
       "name": "Chainlink",
       "symbol": "LINK",
@@ -62,7 +62,7 @@
       "logoURI": "https://bscscan.com/token/images/chainlink_32.png"
     },
     {
-      "address": "0xad6caeb32cd2c308980a548bd0bc5aa4306c6c18",
+      "address": "0xAD6cAEb32CD2c308980a548bD0Bc5AA4306c6c18",
       "chainId": 56,
       "name": "BandProtocol",
       "symbol": "BAND",
@@ -70,7 +70,7 @@
       "logoURI": "https://bscscan.com/token/images/bandtoken_32.png"
     },
     {
-      "address": "0x7083609fce4d1d8dc0c979aab8c869ea2c873402",
+      "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
       "chainId": 56,
       "name": "Polkadot",
       "symbol": "DOT",
@@ -78,7 +78,7 @@
       "logoURI": "https://bscscan.com/token/images/polkadot_32.png"
     },
     {
-      "address": "0x8ff795a6f4d97e7887c79bea79aba5cc76444adf",
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
       "chainId": 56,
       "name": "BitcoinCash",
       "symbol": "BCH",
@@ -86,7 +86,7 @@
       "logoURI": "https://bscscan.com/token/images/bitcoincash_32.png"
     },
     {
-      "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
       "chainId": 56,
       "name": "Litecoin",
       "symbol": "LTC",
@@ -94,7 +94,7 @@
       "logoURI": "https://bscscan.com/token/images/litecoin_32.png"
     },
     {
-      "address": "0x3ee2200efb3400fabb9aacf31297cbdd1d435d47",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
       "chainId": 56,
       "name": "Cardano",
       "symbol": "ADA",
@@ -102,7 +102,7 @@
       "logoURI": "https://bscscan.com/token/images/cardano_32.png"
     },
     {
-      "address": "0x56b6fb708fc5732dec1afc8d8556423a2edccbd6",
+      "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
       "chainId": 56,
       "name": "EOS",
       "symbol": "EOS",
@@ -110,7 +110,7 @@
       "logoURI": "https://bscscan.com/token/images/eos_32.png"
     },
     {
-      "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
       "chainId": 56,
       "name": "Ripple",
       "symbol": "XRP",
@@ -118,7 +118,7 @@
       "logoURI": "https://bscscan.com/token/images/xrp_32.png"
     },
     {
-      "address": "0x16939ef78684453bfdfb47825f8a5f714f12623a",
+      "address": "0x16939ef78684453bfDFb47825F8a5F714f12623a",
       "chainId": 56,
       "name": "Tezos",
       "symbol": "XTZ",
@@ -126,7 +126,7 @@
       "logoURI": "https://bscscan.com/token/images/tezos_32.png"
     },
     {
-      "address": "0xfd7b3a77848f1c2d67e05e54d78d174a0c850335",
+      "address": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335",
       "chainId": 56,
       "name": "Ontology",
       "symbol": "ONT",
@@ -134,7 +134,7 @@
       "logoURI": "https://bscscan.com/token/images/ontology_32.png"
     },
     {
-      "address": "0x7f70642d88cf1c4a3a7abb072b53b929b653eda5",
+      "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
       "chainId": 56,
       "name": "YFII.finance",
       "symbol": "YFII",
@@ -142,7 +142,7 @@
       "logoURI": "https://bscscan.com/token/images/dfimoney_32.png"
     },
     {
-      "address": "0x0eb3a705fc54725037cc9e008bdede697f62f335",
+      "address": "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
       "chainId": 56,
       "name": "Cosmos Network",
       "symbol": "ATOM",
@@ -150,7 +150,7 @@
       "logoURI": "https://bscscan.com/token/images/cosmos_32.png"
     },
     {
-      "address": "0x55d398326f99059ff775485246999027b3197955",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
       "chainId": 56,
       "name": "Tether USD",
       "symbol": "USDT",
@@ -158,7 +158,7 @@
       "logoURI": "https://bscscan.com/token/images/tether_32.png"
     },
     {
-      "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
       "chainId": 56,
       "name": "DAI Token",
       "symbol": "DAI",
@@ -166,7 +166,7 @@
       "logoURI": "https://bscscan.com/token/images/dai_32.png"
     },
     {
-      "address": "0x1ba42e5193dfa8b03d15dd1b86a3113bbbef8eeb",
+      "address": "0x1Ba42e5193dfA8B03D15dd1B86a3113bbBEF8Eeb",
       "chainId": 56,
       "name": "Zcash Token",
       "symbol": "ZEC",
@@ -174,7 +174,7 @@
       "logoURI": "https://bscscan.com/token/images/zcash_32.png"
     },
     {
-      "address": "0xaf53d56ff99f1322515e54fdde93ff8b3b7dafd5",
+      "address": "0xaF53d56ff99f1322515E54FdDE93FF8b3b7DAFd5",
       "chainId": 56,
       "name": "Prometeus",
       "symbol": "PROM",
@@ -198,7 +198,7 @@
       "logoURI": "https://bscscan.com/token/images/alpha_32.png"
     },
     {
-      "address": "0x4b0f1812e5df2a09796481ff14017e6005508003",
+      "address": "0x4B0F1812e5Df2A09796481Ff14017e6005508003",
       "chainId": 56,
       "name": "Trust Wallet",
       "symbol": "TWT",
@@ -258,8 +258,8 @@
     }
   ],
   "version": {
-    "major": 9,
-    "minor": 8,
+    "major": 10,
+    "minor": 0,
     "patch": 0
   }
 }
