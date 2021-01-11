@@ -1,6 +1,6 @@
 {
   "name": "Chocolate Factory",
-  "timestamp": "2021-01-09T15:33:00+00:00",
+  "timestamp": "2021-01-11T15:33:00+00:00",
   "logoURI": "https://gateway.pinata.cloud/ipfs/QmayUtTefirV1qW17QBKn4jcPyk27XSyC21TjuQwmWgBN9",
   "keywords": ["chocofactoryswap", "default", "list"],
   "tokens": [
@@ -206,12 +206,12 @@
       "logoURI": "https://bscscan.com/token/images/trust_32.png"
     },
     {
-      "address": "0x816427eD0c2986c14Db63ca09B6376FFd9E0aD70",
+      "address": "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
       "chainId": 56,
-      "name": "IceToken",
-      "symbol": "ICE",
+      "name": "Binance-Peg yearn.finance",
+      "symbol": "YFI",
       "decimals": 18,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/QmVbvH2xh7vyxaRZ3NA5DLK7o3pEHye7zMYBbfLRuN2Q4J"
+      "logoURI": "https://bscscan.com/token/images/yfi_32.png"
     },
 
 
@@ -258,7 +258,7 @@
     }
   ],
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   }
